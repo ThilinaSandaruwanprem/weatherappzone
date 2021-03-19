@@ -1,0 +1,13 @@
+html body {
+         background-color: #008B8B;
+         }
+
+.text{
+         width: 80%;
+         padding: 10px
+         }
+ .submit{
+         height: 39px;
+         width: 100px;
+         border: 0px;
+         }
